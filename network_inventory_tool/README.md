@@ -17,10 +17,7 @@ Loyihani ishga tushirish uchun kompyuteringizda quyidagilar o'rnatilgan bo'lishi
 
 ## O'rnatish
 Repozitoriyni yuklab oling:
-   ```bash
-   git clone [https://github.com/SizningUsername/network_inventory_tool.git](https://github.com/SizningUsername/network_inventory_tool.git)
-   cd network_inventory_tool
-   ```
+
 
 ## Faqat tarmoqni skanerlash va ekranga chiqarish:
 ```
