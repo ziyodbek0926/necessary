@@ -10,10 +10,6 @@ Ushbu Python skripti Linux serverlarida (Ubuntu/Debian, CentOS) real vaqt rejimi
 ## ⚙️ O'rnatish va Ishlatish
 
 1. **Repozitoriyni yuklab oling:**
-   ```bash
-   git clone https://github.com/SizningUsername/security_log_analyzer.git
-   cd security_log_analyzer
-   ```
 
 2. **Oq ro'yxatni (Whitelist) sozlang:**
    `whitelist.txt` fayliga kiring va bloklanmasligi kerak bo'lgan IP manzillarni (har birini yangi qatordan) kiriting.
